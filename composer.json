@@ -1,0 +1,19 @@
+{
+    "name": "gronw/aphp6.1_tests",
+    "description": "ДЗ по теме тестирование",
+    "autoload": {
+        "psr-4": {
+            "Gronw\\Aphp61Tests\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gronik4",
+            "email": "golegni@yandex.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": "^10.1"
+    }
+}
